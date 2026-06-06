@@ -32,7 +32,7 @@
 
 <br>
 
-🚀 **AI & Full Stack Developer**
+🚀 **Full Stack Developer**
 💡 Passionate about **Generative AI** and intelligent agent systems
 📊 **LeetCode Rating: 1400+**
 🧩 **SkillRack: 300+ Problems Solved**
@@ -44,7 +44,7 @@
 ```yaml
 # Quick Snapshot
 name       : Koushika V
-role       : AI Engineer & Full Stack Developer
+role       : Full Stack Developer
 education  : B.E CSE (AIML) @ SECE
 location   : Tamil Nadu, India
 focus      : AI Agents, MERN Stack, Generative AI
