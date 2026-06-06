@@ -71,7 +71,7 @@ status     : "Open to Opportunities 🚀"
 
 [![GitHub](https://img.shields.io/badge/GitHub-koushi22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koushi22)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Koushika_V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushika-v-5693972b8/)
-[![Gmail](https://img.shields.io/badge/Gmail-koushika.v2023aiml@sece.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushika.v2023aiml@sece.ac.in)
+[![Gmail](https://img.shields.io/badge/Gmail-koushikavenkateswaran@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushikavenkateswaran@gmail.com)
 
 </div>
 
